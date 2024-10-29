@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/ajpelu/ajpelu.r-universe.dev
 	branch = HEAD
+[submodule "datefixR"]
+	path = datefixR
+	url = https://github.com/ropensci/datefixR
+[submodule "diveRpine"]
+	path = diveRpine
+	url = https://github.com/ajpelu/diveRpine
+[submodule "famexploreR"]
+	path = famexploreR
+	url = https://github.com/ajpelu/famexploreR
+[submodule "likelihoodTools"]
+	path = likelihoodTools
+	url = https://github.com/ajpelu/likelihoodTools
